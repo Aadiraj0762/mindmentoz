@@ -342,8 +342,8 @@ const Sidebar = () => {
         </Link>
         {isSidebarExpanded && (
           <>
-            <h2 className="text-gray-800 text-lg font-semibold mt-2">John Doe</h2>
-            <span className="text-sm text-gray-500">Service Desk Technical Lead</span>
+            <h2 className="text-gray-800 text-lg font-semibold mt-2">Operations Mindmentoz</h2>
+            <span className="text-sm text-gray-500">Operational Manager at MindMentoz</span>
           </>
         )}
       </div>

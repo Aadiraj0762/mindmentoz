@@ -7,11 +7,11 @@ const ProfileView = () => {
   const [showSaveMessage, setShowSaveMessage] = useState(false);
   
   const initialProfile = {
-    name: "Sarah Anderson",
-    role: "Senior Product Designer",
+    name: "Operations Mindmentoz",
+    role: "Operational Manager at MindMentoz",
     avatar: "https://img.freepik.com/premium-vector/man-professional-business-casual-young-avatar-icon-illustration_1277826-623.jpg?w=740",
     location: "San Francisco, CA",
-    email: "sarah.anderson@example.com",
+    email: "operations@mindmentoz.com",
     joinDate: "January 2024",
     website: "www.sarahanderson.design",
     bio: "Passionate about creating beautiful and functional user experiences. Over 8 years of experience in product design and user interface development.",
